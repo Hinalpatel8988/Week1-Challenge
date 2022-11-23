@@ -1,12 +1,17 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: -4px;
 }
 
+/* Universal selector for the background color of the page */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Class selector for the header */
 
 .header {
     padding: 20px;
@@ -14,6 +19,8 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
+/* Class selector for the Horiseon header font size and display location */
 
 .header h1 {
     display: inline-block;
@@ -23,6 +30,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* Class selector for nav,changed div to nav for semantic HTML elements  */
 
 .header nav {
     padding-top: 15px;
@@ -40,15 +48,19 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Hyperlink color */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Paragraph font size */
 
 p {
     font-size: 16px;
 }
+
+/* Class selector changes the dimensions of the image */
 
 .hero {
     height: 800px;
@@ -58,16 +70,19 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Class selector that pushes the images to the left */
 
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Class selector that pushes the images to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
+
+/* Class selector to set width, display and margin */
 
 .content {
     width: 75%;
@@ -75,6 +90,7 @@ p {
     margin-left: 20px;
 }
 
+/* Class selector to set margin right, dimensions, color, and fonts */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,35 +102,46 @@ p {
     background-color: #2589bd;
 }
 
+/* Class selector for the Lead Generation section */
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* Class selector for the Brand Awareness section */
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* Class selector for the Cost Management section */
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Class selector for the lead generation */
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Class selector for the Brand Awareness header */
+
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Class selector for the Cost Management header */
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Class selector for the images in the aside column */
 
 .benefit-lead img {
     display: block;
@@ -133,6 +160,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* ID selector for the articles */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -187,6 +216,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* class selector for footer */
 
 .footer {
     padding: 30px;
