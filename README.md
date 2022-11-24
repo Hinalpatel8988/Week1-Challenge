@@ -1,34 +1,21 @@
 # Week 1 Challenge
 
-
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
 ## Acceptance Criteria
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* Website now has accessibility standards. 
+* Changed non semantic elements to semantic elements.
+* Elements now follow a logical structure with independent styling and positioning.
+* Added comments to the CSS so it is easy to read.
+* Images have alt attributes for accesibility use.
+* Heading attributes fall in sequential order.
+* Added concise, descriptive title.
 
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/horiseon-web-page.png)
 
 
 ## Submission
 
 * The URL of the deployed application. - 
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the GitHub repository, with a unique name and a README that describes the project - https://github.com/Hinalpatel8988/Week1-Challenge.git.
