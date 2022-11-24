@@ -11,7 +11,8 @@
 * Added concise, descriptive title.
 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./C:\Users\User\Bootcamp\Week1-Challenge\Week1-Challenge\Assets\01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/horiseon-web-page.png)
+
 
 
 ## Submission
